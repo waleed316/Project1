@@ -727,7 +727,7 @@
                         <h3 class="sales-heading ml-3 mb-4 mt-5">CONTACT INFO</h3>
                         <ul class="sales-list ml-3">
                             <li><a  class="footer-text"><i class="fa fa-user-o footer-icon-mark" aria-hidden="true"></i>&nbsp;&nbsp; &nbsp;<span class="left-border">&nbsp;&nbsp;Mictronicx</span></a></li>
-                            <li><a  class="footer-text"><i class="fa fa-map-o footer-icon-mark" aria-hidden="true"></i> &nbsp;&nbsp;<span class="left-border">&nbsp;&nbsp; Office # 305, 4th floor Al Sammad Tower, Karachi, Pakistan</span></a></li>
+                            <li><a  class="footer-text"><i class="fa fa-map-o footer-icon-mark" aria-hidden="true"></i> &nbsp;&nbsp;<span class="left-border">&nbsp;&nbsp; Office # 305, 4th floor Al Sammad Tower, Karachi</span></a></li>
                             <li><a href="tel:+92-333-2057555" class="footer-text"><i class="fa fa-mobile footer-icon-mark" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp; <span class="left-border">&nbsp;&nbsp; +92-333-2057555</span></a></li>
                             <li><a href="mailto:sales@appscientist.com" class="footer-text"><i class="fa fa-envelope-o footer-icon-mark" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp; <span class="left-border">&nbsp;&nbsp;Sales@mictronicx.com</span></a></li>
                         </ul>
