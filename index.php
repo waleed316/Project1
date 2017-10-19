@@ -174,19 +174,19 @@
                 <section id="demos" class="mb-5 pb-5">
                     <div class="owl-carousel owl-theme pt-5">
                         <div class="item">
-                            <h4 class="text-center">1</h4>
+                            <h4 class="text-center" style="color:white">HP</h4>
                         </div>
                         <div class="item">
-                            <h4 class="text-center">2</h4>
+                            <h4 class="text-center" style="color:white">ASUS</h4>
                         </div>
                         <div class="item">
-                            <h4 class="text-center">3</h4>
+                            <h4 class="text-center" style="color:white">DELL</h4>
                         </div>
                         <div class="item">
-                            <h4 class="text-center">4</h4>
+                            <h4 class="text-center" style="color:white">APPLE</h4>
                         </div>
                         <div class="item">
-                            <h4>5</h4>
+                            <h4 class="text-center" style="color:white">SAMSUNG</h4>
                         </div>
                     </div>
                 </section>
