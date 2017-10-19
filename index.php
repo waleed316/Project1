@@ -162,7 +162,7 @@
            <div class="col-xl-12 text-center">
                <h1 class="idea">DO YOU WANT TO IMPLEMENT YOUR IDEA?</h1>
                <p class="lead">Do you have any query or any custom work to develop?</p>
-                <button class="btn btn-idea">GETTING START NOW</button>
+                <button class="btn btn-idea">GETTING STARTED NOW</button>
             </div>
        </div>
    </section>
@@ -194,7 +194,63 @@
         </div>
             <div class="bg-blur"></div>
     </section> -->
-    <hr>
+    <!-- <hr> -->
+
+    <section class="fifth mt-5">
+        <div class="container-fluid">
+            <!-- <div class="container"> -->
+                <div class="row">
+                    <div class="col-xl-12 pt-5">
+                        <h1 class="process text-center">OUR PROCESS</h1>
+                        <p class="desc text-center">Every software starts with discussion and information gathering . Every software ends</p>
+                        <p class="desc text-center">at launch / deployment .</p>
+                    </div>
+                </div>
+
+                <div class="row mt-4">
+                    <div class="col-xl-1 col-lg-1 col-md-1 col-sm-1"></div>                    
+                    <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 mb-5">
+                        <div class="four-boxes text-center">
+                            <img src="images/proc-icon1.png" alt="" class="img-fluid">
+                            <p class="lead mt-2">FLOW</p>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 mb-5">
+                        <div class="four-boxes text-center">
+                            <img src="images/proc-icon2.png" alt="" class="img-fluid">
+                            <p class="lead mt-2">DESIGN</p>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 mb-5">
+                        <div class="four-boxes text-center">
+                            <img src="images/proc-icon3.png" alt="" class="img-fluid">
+                            <p class="lead mt-2">DEVELOP</p>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 mb-5">
+                        <div class="four-boxes text-center">
+                            <img src="images/proc-icon4.png" alt="" class="img-fluid">
+                            <p class="lead mt-2">DELIVER</p>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 mb-5">
+                        <div class="four-boxes text-center">
+                            <img src="images/proc-icon5.png" alt="" class="img-fluid">
+                            <p class="lead mt-2">DELIVER</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-1 col-lg-1 col-md-1 col-sm-1"></div>                    
+                    
+                </div>
+            <!-- </div> -->
+        </div>
+        <div class="bg-blur"></div>
+    </section>
+
 
    <section class="port mt-5" id="port">
        <div class="row mx-0">
@@ -602,7 +658,59 @@
        </div>
    </section>
 
-   
+   <section class="contact mt-5 pb-5" id="con">
+       <div class="container-fluid">
+           <div class="container">
+               <div class="row mt-5">
+                   <div class="col-xl-12 mt-5">
+                       <h1 class="contact1 text-center">Contact Us</h1>
+                   </div>
+               </div>
+                <div class="row">
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
+                        <form action="" class="mt-4">
+                            <div class="input-group mb-3">
+                                    <span class="input-group-addon user" id="basic-addon1"><i class="fa fa-user" aria-hidden="true"></i></span>
+                                    <input type="text" required class="form-control" placeholder="Username" aria-describedby="basic-addon1">
+                            </div>
+                            
+                            <div class="input-group mb-3">
+                                    <span class="input-group-addon" id="basic-addon1"><i class="fa fa-envelope-o" aria-hidden="true"></i></span>
+                                    <input type="email" required class="form-control" placeholder="Email" aria-describedby="basic-addon1">
+                            </div>
+
+                            <div class="input-group mb-3">
+                                    <span class="input-group-addon" id="basic-addon1"><i class="fa fa-flag" aria-hidden="true"></i></span>
+                                    <input type="text" required class="form-control" placeholder="Country" aria-describedby="basic-addon1">
+                            </div>
+
+                            <div class="input-group mb-3">
+                                    <span class="input-group-addon phone" id="basic-addon1"><i class="fa fa-phone" aria-hidden="true"></i></span>
+                                    <input type="text" required class="form-control" placeholder="Username" aria-describedby="basic-addon1">
+                            </div>
+
+                            <div class="input-group mb-3">
+                                    <!-- <span class="input-group-addon phone" id="basic-addon1"><i class="fa fa-phone" aria-hidden="true"></i></span> -->
+                                    <textarea class="form-control" required id="exampleTextarea" placeholder="message" rows="5"></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-submit">Submit</button>
+                        </form>
+                    </div>
+
+                    <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 mt-4 sales-info">
+                        <h3 class="sales-heading ml-3 mb-4 mt-5">CONTACT INFO</h3>
+                        <ul class="sales-list ml-3">
+                            <li><a  class="footer-text"><i class="fa fa-user-o footer-icon-mark" aria-hidden="true"></i>&nbsp;&nbsp; &nbsp;<span class="left-border">&nbsp;&nbsp;Mictronicx</span></a></li>
+                            <li><a  class="footer-text"><i class="fa fa-map-o footer-icon-mark" aria-hidden="true"></i> &nbsp;&nbsp;<span class="left-border">&nbsp;&nbsp; Office # 305, 4th floor Al Sammad Tower, Karachi, Pakistan</span></a></li>
+                            <li><a href="tel:+92-333-2057555" class="footer-text"><i class="fa fa-mobile footer-icon-mark" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp; <span class="left-border">&nbsp;&nbsp; +92-333-2057555</span></a></li>
+                            <li><a href="mailto:sales@appscientist.com" class="footer-text"><i class="fa fa-envelope-o footer-icon-mark" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp; <span class="left-border">&nbsp;&nbsp;Sales@mictronicx.com</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+           </div>
+       </div>
+       <div class="bg-blur"></div>
+   </section>
 
 
     <?php include './navigations/footer.php' ?>      
@@ -636,33 +744,33 @@
         })
     </script>  
     <script type="text/javascript">
-	$(function () {
-		
-		var filterList = {
-		
-			init: function () {
-			
-				// MixItUp plugin
-				// http://mixitup.io
-				$('#portfoliolist').mixItUp({
-  				selectors: {
-    			  target: '.portfolio',
-    			  filter: '.filter'	
-    		  },
-    		  load: {
-      		  filter: '.app'  
-      		}     
-				});								
-			
-			}
+        $(function () {
+            
+            var filterList = {
+            
+                init: function () {
+                
+                    // MixItUp plugin
+                    // http://mixitup.io
+                    $('#portfoliolist').mixItUp({
+                    selectors: {
+                    target: '.portfolio',
+                    filter: '.filter'	
+                },
+                load: {
+                filter: '.app'  
+                }     
+                    });								
+                
+                }
 
-		};
-		
-		// Run the show!
-		filterList.init();
-		
-		
-	});	
+            };
+            
+            // Run the show!
+            filterList.init();
+            
+            
+        });	
 	</script>
   </body>
 </html>

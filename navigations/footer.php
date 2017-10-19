@@ -3,10 +3,10 @@
         <div class="row">
             <div class="col-xl-12 text-center">
                 <ul class="footer-list">
-                    <li><a href="#" class="navi">About Us</a></li>
-                    <li><a href="#" class="navi">Services</a></li>
-                    <li><a href="#" class="navi">Our Clients</a></li>
-                    <li><a href="#" class="navi">Portfolio</a></li>
+                    <li><a href="#second" class="navi">About Us</a></li>
+                    <li><a href="#services" class="navi">Services</a></li>
+                    <li><a href="#port" class="navi">Portfolio</a></li>
+                    <li><a href="#con" class="navi">Contact</a></li>
                 </ul>
                 <p class="copy">Copyright © 2015 <span>MICTRONICX</span> All rights reserved.</p>
                 <p class="copy">Design & Developed By <span>MICTRONICX</span></p>                

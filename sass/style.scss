@@ -9,6 +9,10 @@ body{
     height: 100vh!important;
 }
 
+
+
+
+
 .navbar{
     background-color: rgba(0, 0, 0, 0.4)!important;
     box-shadow: 4px 0px 13px black;
@@ -25,6 +29,7 @@ body{
     background-image: url('../images/59438.jpg');
     background-position: center;
     background-size: cover;
+    // animation: animate 5s ease-in-out;
 
     .bg-image{
         position: absolute;
@@ -60,6 +65,21 @@ body{
         background-color: rgba(0, 0, 0, 0.4);
     }
 
+}
+
+@keyframes animate{
+  0%{
+      transform: perspective(500px) scale3d(1,1, 0.2) translateZ(1px);
+  }
+  25%{
+      transform: perspective(500px) scale3d(1, 1, 0.3) translateZ(21px);
+  }
+  75%{
+    transform: perspective(500px) scale3d(1, 1, 0.8) translateZ(31px);
+  }
+  100%{
+    transform: perspective(500px) scale3d(1, 1, 01) translateZ(41px);
+  }
 }
 
 
@@ -129,6 +149,11 @@ body{
     cursor: pointer;
     border-radius: 0!important;
     color: white;
+    &:hover{
+      background-color: white!important;
+      border-color: red;
+      color: red;
+    }
 }
 
 
@@ -185,6 +210,117 @@ body{
         color: red;
     }
 }
+
+
+.fifth{
+  background-image: url('../images/3d.jpg');
+  background-attachment: fixed;
+  position: relative;
+  .col-xl-12,.col-xl-2{
+    z-index: 1;
+  }
+  .process{
+    color: white;
+  }
+  .desc{
+    color: white;
+    margin-bottom: 2px;
+  }
+  .bg-blur{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+
+  .four-boxes{
+    .lead{
+      color: white;
+    }
+  }
+}
+
+
+
+.contact{
+  background-image: url('../images/45.jpg');
+  position: relative;
+  // background-repeat: no-repeat;
+  .bg-blur{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+  .col-xl-12{
+    z-index: 1;
+    .contact1{
+      color: white;
+    }
+  }
+
+  .col-xl-6{
+    z-index: 1;
+  }
+
+  .btn-submit{
+    background-color: red!important;
+    color: white;
+    z-index: 1!important;
+    cursor: pointer;
+    &:hover{
+      background-color: white!important;
+      border-color: red!important;
+      color: red!important;
+    }
+  }
+
+}
+
+.input-group-addon,.form-control{
+  background-color:white!important;
+  z-index: 1;
+  border-radius: 0!important;
+  border-color: black!important;
+}
+
+.user{
+  padding: 0.5rem 14px!important;
+}
+
+.phone{
+  padding: 0.5rem 14px!important;
+}
+
+
+.sales-info{
+  .sales-heading{
+    color: white;
+  }
+  .sales-list{
+    list-style: none;
+    li{
+      margin-bottom: 10px;
+      a{
+        color: white;
+        text-decoration: none;
+        &:hover{
+          text-decoration: none;
+          color: red!important;
+        }
+      }
+    }
+  }
+}
+
+
+
+
+
 
 
 /*! lightgallery - v1.6.1 - 2017-09-18
@@ -1462,7 +1598,7 @@ body{
         margin-bottom: 3rem;
     }
 
-    // .services-box:nth-child(4){
+    // .services-box:nth-last-child(-n+3){
     //     border-bottom: 0!important;
     // }
 }
