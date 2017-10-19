@@ -273,7 +273,7 @@
 
                     <div class="portfolio web" data-cat="web" data-responsive="images/5.jpg" data-src="images/5.jpg" data-sub-html="<a>https://www.anythingchenille.com</a>">
                         <div class="portfolio-wrapper">				
-                            <img src="images/5.jpg" class="img-fluid"  alt="" />
+                            <img src="images/5.jpg" class="img-fluid logo-img"  alt="" />
                             <div class="label">
                                 <div class="label-text">
                                     <a href="https://www.anythingchenille.com/" target="_blank" class="text-title">Anything Chenille</a>
@@ -286,7 +286,7 @@
 
                     <div class="portfolio web" data-cat="web" data-responsive="images/6.jpg" data-src="images/6.jpg" data-sub-html="<a>http://www.equipsellsit.com/</a>">
                         <div class="portfolio-wrapper">			
-                            <img src="images/6.jpg" class="img-fluid" alt="" />
+                            <img src="images/6.jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
                                 <div class="label-text">
                                     <a href="http://www.equipsellsit.com/" class="text-title">EquipSellsit</a>
@@ -299,7 +299,7 @@
                     
                     <div class="portfolio web" data-cat="web" data-responsive="images/1.jpg" data-src="images/1.jpg" data-sub-html="<a>https://viettownapparel.com/</a>">
                         <div class="portfolio-wrapper">						
-                            <img src="images/1.jpg" class="img-fluid" alt="" />
+                            <img src="images/1.jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
                                 <div class="label-text">
                                     <a href="https://viettownapparel.com/" class="text-title">VietTown Apparel</a>
@@ -312,7 +312,7 @@
                     
                     <div class="portfolio web" data-cat="web" data-responsive="images/7.jpg" data-src="images/7.jpg" data-sub-html="<a>https://www.greenandblacks.co.uk/</a>">
                         <div class="portfolio-wrapper">			
-                            <img src="images/7.jpg" class="img-fluid" alt="" />
+                            <img src="images/7.jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
                                 <div class="label-text">
                                     <a href="https://www.greenandblacks.co.uk/" class="text-title">GreenandBlacks</a>
@@ -379,7 +379,7 @@
                     
                     <div class="portfolio web" data-cat="web" data-responsive="images/8.jpg" data-src="images/8.jpg" data-sub-html="<a>http://www.closet31.com/</a>">
                         <div class="portfolio-wrapper">			
-                            <img src="images/8.jpg" class="img-fluid" alt="" />
+                            <img src="images/8.jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
                                 <div class="label-text">
                                     <a class="text-title">Closet31</a>
@@ -431,7 +431,7 @@
                     
                     <div class="portfolio logo" data-cat="logo" data-responsive="images/1 (2).jpg" data-src="images/1 (2).jpg">
                         <div class="portfolio-wrapper">			
-                            <img src="images/1 (2).jpg" class="img-fluid" alt="" />
+                            <img src="images/1 (2).jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
                                 <div class="label-text">
                                     <a class="text-title">Chicago Knife Works</a>
@@ -470,7 +470,7 @@
 
                     <div class="portfolio logo" data-cat="logo" data-responsive="images/2 (2).jpg" data-src="images/2 (2).jpg">
                         <div class="portfolio-wrapper">			
-                            <img src="images/2 (2).jpg" class="img-fluid" alt="" />
+                            <img src="images/2 (2).jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
                                 <div class="label-text">
                                     <a class="text-title">Mangnus Mentoc</a>
@@ -483,7 +483,7 @@
 
                     <div class="portfolio logo" data-cat="logo" data-responsive="images/3 (2).jpg" data-src="images/3 (2).jpg">
                         <div class="portfolio-wrapper">			
-                            <img src="images/3 (2).jpg" class="img-fluid" alt="" />
+                            <img src="images/3 (2).jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
                                 <div class="label-text">
                                     <a class="text-title">Green Pacific</a>
@@ -509,7 +509,7 @@
 
                     <div class="portfolio web" data-cat="web" data-responsive="images/2.jpg" data-src="images/2.jpg" data-sub-html="<a>https://www.jfitzpatrickfootwear.com/</a>">
                         <div class="portfolio-wrapper">						
-                            <img src="images/2.jpg" class="img-fluid" alt="" />
+                            <img src="images/2.jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
                                 <div class="label-text">
                                     <a class="text-title">JfitzPatrick Footwear</a>
@@ -535,7 +535,7 @@
                     
                     <div class="portfolio web" data-cat="web" data-responsive="images/3.jpg" data-src="images/3.jpg" data-sub-html="<a>https://sophieandtrey.com/</a>">
                         <div class="portfolio-wrapper">						
-                            <img src="images/3.jpg" class="img-fluid" alt="" />
+                            <img src="images/3.jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
                                 <div class="label-text">
                                     <a class="text-title">Sophie and Trey</a>
@@ -574,7 +574,7 @@
                     
                     <div class="portfolio web" data-cat="web" data-responsive="images/4.jpg" data-src="images/4.jpg" data-sub-html="<a>https://www.pnclogos.com/</a>">
                         <div class="portfolio-wrapper">						
-                            <img src="images/4.jpg" class="img-fluid" alt="" />
+                            <img src="images/4.jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
                                 <div class="label-text">
                                     <a class="text-title">PNC Logos</a>
@@ -587,7 +587,7 @@
                     
                     <div class="portfolio logo" data-cat="logo" data-responsive="images/4 (2).jpg" data-src="images/4 (2).jpg">
                         <div class="portfolio-wrapper">			
-                            <img src="images/4 (2).jpg" class="img-fluid" alt="" />
+                            <img src="images/4 (2).jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
                                 <div class="label-text">
                                     <a class="text-title">Cri Crawlr</a>
@@ -600,7 +600,7 @@
 
                     <div class="portfolio logo" data-cat="logo" data-responsive="images/5 (2).jpg" data-src="images/5 (2).jpg">
                         <div class="portfolio-wrapper">			
-                            <img src="images/5 (2).jpg" class="img-fluid" alt="" />
+                            <img src="images/5 (2).jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
                                 <div class="label-text">
                                     <a class="text-title">IRSP </a>
@@ -609,7 +609,33 @@
                                 <div class="label-bg"></div>
                             </div>
                         </div>
-                    </div>																												
+                    </div>		
+                    
+                    <div class="portfolio logo" data-cat="logo" data-responsive="images/8 (2).jpg" data-src="images/8 (2).jpg">
+                        <div class="portfolio-wrapper">			
+                            <img src="images/8 (2).jpg" class="img-fluid logo-img" alt="" />
+                            <div class="label">
+                                <div class="label-text">
+                                    <a class="text-title">IRSP </a>
+                                    <span class="text-category">Logo</span>
+                                </div>
+                                <div class="label-bg"></div>
+                            </div>
+                        </div>
+                    </div>		
+
+                    <div class="portfolio logo" data-cat="logo" data-responsive="images/74 (2).jpg" data-src="images/74 (2).jpg">
+                        <div class="portfolio-wrapper">			
+                            <img src="images/74 (2).jpg" class="img-fluid logo-img" alt="" />
+                            <div class="label">
+                                <div class="label-text">
+                                    <a class="text-title">IRSP </a>
+                                    <span class="text-category">Logo</span>
+                                </div>
+                                <div class="label-bg"></div>
+                            </div>
+                        </div>
+                    </div>		
                     
                     <!-- <div class="portfolio icon" data-cat="icon">
                         <div class="portfolio-wrapper">			
@@ -639,7 +665,7 @@
 
                     <div class="portfolio logo" data-cat="logo" data-responsive="images/6 (2).jpg" data-src="images/6 (2).jpg">
                         <div class="portfolio-wrapper">			
-                            <img src="images/6 (2).jpg" class="img-fluid" alt="" />
+                            <img src="images/6 (2).jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
                                 <div class="label-text">
                                     <a class="text-title">MediSurg Innovatives Health Care</a>

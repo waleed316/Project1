@@ -1557,6 +1557,10 @@ body{
     .client-head{
         font-size: 19px;
     }
+    .logo-img{
+      height: 110px!important;
+      width: 100%!important;
+    }
 }
 
 
@@ -1564,6 +1568,10 @@ body{
 @media (min-width: 576px) and (max-width: 767px) { 
     .main-heading{
         margin-top: 0%!important;
+    }
+    .logo-img{
+      height: 159px!important;
+      width: 100%!important;
     }
 }
 
@@ -1577,6 +1585,10 @@ body{
             height: 75px!important;
         }
     }
+    .logo-img{
+      height: 166px!important;
+      width: 100%!important;
+    }
 
 }
 
@@ -1588,6 +1600,10 @@ body{
     }
     .box-container{
         margin-bottom: 2rem;
+    }
+    .logo-img{
+      height: 166px!important;
+      width: 100%!important;
     }
 
 }
@@ -1601,6 +1617,11 @@ body{
     // .services-box:nth-last-child(-n+3){
     //     border-bottom: 0!important;
     // }
+
+    .logo-img{
+      height: 166px!important;
+      width: 100%!important;
+    }
 }
 
 
