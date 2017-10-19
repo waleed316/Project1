@@ -240,7 +240,7 @@
                     <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 mb-5">
                         <div class="four-boxes text-center">
                             <img src="images/proc-icon5.png" alt="" class="img-fluid">
-                            <p class="lead mt-2">DELIVER</p>
+                            <p class="lead mt-2">LAUNCH</p>
                         </div>
                     </div>
                     <div class="col-xl-1 col-lg-1 col-md-1 col-sm-1"></div>                    
