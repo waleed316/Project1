@@ -31,9 +31,9 @@
                 <a class="dropdown-item" href="#">Game Development</a>            
             </div>
         </li> -->
-        <li class="nav-item">
+        <!-- <li class="nav-item">
             <a class="nav-link" href="#clients">Our Clients</a>
-        </li>
+        </li> -->
         <li class="nav-item">
             <a class="nav-link" href="#port">Portfolio</a>
         </li>

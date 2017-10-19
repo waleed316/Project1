@@ -167,7 +167,7 @@
        </div>
    </section>
 
-    <section class="portfolio1 mt-5" id="clients">
+    <!-- <section class="portfolio1 mt-5" id="clients">
         <div class="row mx-0 mt-5">
            <div class="col-xl-12">
            <h1 class="client-head text-center mb-5 mt-5">OUR VALUABLE CLIENTS</h1>               
@@ -193,7 +193,7 @@
             </div>
         </div>
             <div class="bg-blur"></div>
-    </section>
+    </section> -->
 
    <section class="port mt-5" id="port">
        <div class="row mx-0">
