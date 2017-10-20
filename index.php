@@ -33,7 +33,7 @@
 
                     <div class="row top-margin mt-5">
                         
-                        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-4 mt-5">
+                        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12 mt-5">
                             <div class="box-container text-center">
                                 <h5 class="box-head">Reuirement Analysis</h5>
                                 <img src="images/center-icon1.png" alt="" class="img-fluid">
@@ -51,20 +51,20 @@
                         </div>
 
 
-                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-4">
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-4 hidden-sm-down">
                             <img src="images/edited.png" alt="" class="img-fluid">
                         </div>
 
 
 
-                        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col-4 mt-5">
+                        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12 mt-5">
                             <div class="box-container text-center">
                                 <h5 class="box-head">Testing</h5>
                                 <img src="images/center-icon4.png" alt="" class="img-fluid">
                             </div>
 
                             <div class="box-container text-center">
-                                <h5 class="box-head">Evolution</h5>
+                                <h5 class="box-head">Evaluation</h5>
                                 <img src="images/center-icon5.png" alt="" class="img-fluid">
                             </div>
 
@@ -84,7 +84,7 @@
        <div class="row" style="margin:0">
            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 mt-5 text-center z-ind">
                <h1 class="services-heading mt-1">SERVICES</h1>
-               <p class="lead">Appxone delivers business and IT solutions in spectrum of various platforms. Following </p>
+               <p class="lead">Mictronicx delivers business and IT solutions in spectrum of various platforms. Following </p>
                 <p class="lead">are the platforms below:</p>
             </div>
         </div>
@@ -101,7 +101,7 @@
             </div>
 
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 z-ind px-0">
-                <div class="services-box text-center mt-4">
+                <div class="services-box text-center  mt-4">
                     <a href="#" class="link">                    
                         <img src="images/services-icon2.png" alt="" class="img-fluid">
                         <h5 class="service-par">Ios App Development</h5>
@@ -124,7 +124,7 @@
 
         <div class="row pb-5" style="margin:0">
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 z-ind pr-0">
-                <div class="services-box text-center pt-5">
+                <div class="services-box no-border text-center pt-5">
                     <a href="#" class="link">                    
                         <img src="images/services-icon4.png" alt="" class="img-fluid">
                         <h5 class="service-par">GRAPHIC DESIGNING</h5>
@@ -134,7 +134,7 @@
             </div>
 
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 z-ind px-0">
-                <div class="services-box text-center pt-5">
+                <div class="services-box no-border text-center pt-5">
                     <a href="#" class="link">                    
                         <img src="images/services-icon5.png" alt="" class="img-fluid">
                         <h5 class="service-par">DIGITAL MARKETING</h5>
@@ -145,7 +145,7 @@
 
 
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-4 z-ind pl-0">
-                <div class="services-box text-center pt-5 border-right-0">
+                <div class="services-box no-border text-center pt-5 border-right-0">
                     <a href="#" class="link">                    
                         <img src="images/services-icon8.png" alt="" class="img-fluid">
                         <h5 class="service-par">GAME DEVELOPMENT</h5>
@@ -717,7 +717,7 @@
 
                             <div class="input-group mb-3">
                                     <!-- <span class="input-group-addon phone" id="basic-addon1"><i class="fa fa-phone" aria-hidden="true"></i></span> -->
-                                    <textarea class="form-control" required id="exampleTextarea" placeholder="message" rows="5"></textarea>
+                                    <textarea class="form-control" required id="exampleTextarea" placeholder="Message" rows="5"></textarea>
                             </div>
                             <button type="submit" class="btn btn-submit">Submit</button>
                         </form>
