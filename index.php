@@ -271,7 +271,7 @@
                     
                     <div id="lightgallery">
 
-                    <div class="portfolio web" data-cat="web" data-responsive="images/5.jpg" data-src="images/5.jpg" data-sub-html="<a>https://www.anythingchenille.com</a>">
+                    <div class="portfolio web" data-cat="web" data-responsive="images/5.jpg" data-src="images/5.jpg" data-sub-html="<a class='hyper-link' target='_blank' href='https://www.anythingchenille.com'>Visit Site</a>">
                         <div class="portfolio-wrapper">				
                             <img src="images/5.jpg" class="img-fluid logo-img"  alt="" />
                             <div class="label">
@@ -284,7 +284,7 @@
                         </div>
                     </div>				
 
-                    <div class="portfolio web" data-cat="web" data-responsive="images/6.jpg" data-src="images/6.jpg" data-sub-html="<a>http://www.equipsellsit.com/</a>">
+                    <div class="portfolio web" data-cat="web" data-responsive="images/6.jpg" data-src="images/6.jpg" data-sub-html="<a class='hyper-link' target='_blank' href='http://www.equipsellsit.com/'>Visit Site</a>">
                         <div class="portfolio-wrapper">			
                             <img src="images/6.jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
@@ -297,7 +297,7 @@
                         </div>
                     </div>		
                     
-                    <div class="portfolio web" data-cat="web" data-responsive="images/1.jpg" data-src="images/1.jpg" data-sub-html="<a>https://viettownapparel.com/</a>">
+                    <div class="portfolio web" data-cat="web" data-responsive="images/1.jpg" data-src="images/1.jpg" data-sub-html="<a class='hyper-link' target='_blank' href='https://viettownapparel.com/'>Visit Site</a>">
                         <div class="portfolio-wrapper">						
                             <img src="images/1.jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
@@ -310,7 +310,7 @@
                         </div>
                     </div>				
                     
-                    <div class="portfolio web" data-cat="web" data-responsive="images/7.jpg" data-src="images/7.jpg" data-sub-html="<a>https://www.greenandblacks.co.uk/</a>">
+                    <div class="portfolio web" data-cat="web" data-responsive="images/7.jpg" data-src="images/7.jpg" data-sub-html="<a class='hyper-link' target='_blank' href='https://www.greenandblacks.co.uk/'>Visit Site</a>">
                         <div class="portfolio-wrapper">			
                             <img src="images/7.jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
@@ -323,7 +323,7 @@
                         </div>
                     </div>	
                                 
-                    <div class="portfolio app" data-cat="app" data-responsive="images/Carboss.jpg" data-src="images/Carboss.jpg" data-sub-html="Android<p>https://play.google.com/store/apps/details?id=com.dashride.clients.carbossapp</p>Ios<p>https://itunes.apple.com/us/app/carboss-app/id1132431764?mt=8</p>">
+                    <div class="portfolio app" data-cat="app" data-responsive="images/Carboss.jpg" data-src="images/Carboss.jpg" data-sub-html="Android<p><a  class='hyper-link' target='_blank' href='https://play.google.com/store/apps/details?id=com.dashride.clients.carbossapp'>Play Store</a></p>Ios<p><a class='hyper-link' target='_blank' href='https://itunes.apple.com/us/app/carboss-app/id1132431764?mt=8'>App Store</a></p>">
                         <div class="portfolio-wrapper">
                             <img src="images/Carboss.jpg" class="img-fluid" alt="" />
                             <div class="label">
@@ -336,7 +336,7 @@
                         </div>
                     </div>		
                     
-                    <div class="portfolio app" data-cat="app" data-responsive="images/leeloo.jpg" data-src="images/leeloo.jpg" data-sub-html="Android<p>https://play.google.com/store/apps/details?id=com.leeloo</p>">
+                    <div class="portfolio app" data-cat="app" data-responsive="images/leeloo.jpg" data-src="images/leeloo.jpg" data-sub-html="Android<p><a class='hyper-link' target='_blank' href='https://play.google.com/store/apps/details?id=com.leeloo'>Play Store</a></p>">
                         <div class="portfolio-wrapper">
                             <img src="images/leeloo.jpg" class="img-fluid" alt="" />
                             <div class="label">
@@ -350,7 +350,7 @@
                     </div>		
 
 
-                    <div class="portfolio app" data-cat="app" data-responsive="images/Post again.jpg" data-src="images/Post again.jpg" data-sub-html="Android<p>https://play.google.com/store/apps/details?id=com.postagain.android</p>Ios<p>https://itunes.apple.com/ca/app/postagain-life-broadcast/id949901392?mt=8&ign-mpt=uo=4</p>">
+                    <div class="portfolio app" data-cat="app" data-responsive="images/Post again.jpg" data-src="images/Post again.jpg" data-sub-html="Android<p><a class='hyper-link' target='_blank' href='https://play.google.com/store/apps/details?id=com.postagain.android'>Play Store</a></p>Ios<p><a class='hyper-link' target='_blank' href='https://itunes.apple.com/ca/app/postagain-life-broadcast/id949901392?mt=8&ign-mpt=uo=4'>App Store</a></p>">
                         <div class="portfolio-wrapper">
                             <img src="images/Post again.jpg" class="img-fluid" alt="" />
                             <div class="label">
@@ -364,7 +364,7 @@
                     </div>		
 
 
-                    <div class="portfolio app" data-cat="app" data-responsive="images/speckle.jpg" data-src="images/speckle.jpg" data-sub-html="Android<p>https://play.google.com/store/apps/details?id=com.speckle.speckleApp.demo&hl=en%5C</p>">
+                    <div class="portfolio app" data-cat="app" data-responsive="images/speckle.jpg" data-src="images/speckle.jpg" data-sub-html="Android<p><a  class='hyper-link' target='_blank' href='https://play.google.com/store/apps/details?id=com.speckle.speckleApp.demo&hl=en%5C'>Play Store</a></p>">
                         <div class="portfolio-wrapper">
                             <img src="images/speckle.jpg" class="img-fluid" alt="" />
                             <div class="label">
@@ -377,7 +377,7 @@
                         </div>
                     </div>		
                     
-                    <div class="portfolio web" data-cat="web" data-responsive="images/8.jpg" data-src="images/8.jpg" data-sub-html="<a>http://www.closet31.com/</a>">
+                    <div class="portfolio web" data-cat="web" data-responsive="images/8.jpg" data-src="images/8.jpg" data-sub-html="<a class='hyper-link' target='_blank' href='http://www.closet31.com/'>Visit Site</a>">
                         <div class="portfolio-wrapper">			
                             <img src="images/8.jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
@@ -403,7 +403,7 @@
                         </div>
                     </div>	 -->
 
-                    <div class="portfolio app" data-cat="app" data-responsive="images/Teaze.jpg" data-src="images/Teaze.jpg" data-sub-html="Android<p>https://play.google.com/store/apps/details?id=com.appxone.teazeapp</p>">
+                    <div class="portfolio app" data-cat="app" data-responsive="images/Teaze.jpg" data-src="images/Teaze.jpg" data-sub-html="Android<p><a class='hyper-link' target='_blank' href='https://play.google.com/store/apps/details?id=com.appxone.teazeapp'>Play Store</a></p>">
                         <div class="portfolio-wrapper">
                             <img src="images/Teaze.jpg" class="img-fluid" alt="" />
                             <div class="label">
@@ -416,7 +416,7 @@
                         </div>
                     </div>		
 
-                    <div class="portfolio app" data-cat="app" data-responsive="images/treso.jpg" data-src="images/treso.jpg" data-sub-html="Android<p>https://play.google.com/store/apps/details?id=com.appxone.treso</p>Ios<p>https://itunes.apple.com/nz/app/treso/id1060408353?mt=8</p>">
+                    <div class="portfolio app" data-cat="app" data-responsive="images/treso.jpg" data-src="images/treso.jpg" data-sub-html="Android<p><a class='hyper-link' target='_blank' href='https://play.google.com/store/apps/details?id=com.appxone.treso'>Play Store</a></p>Ios<p><a class='hyper-link' target='_blank' href='https://itunes.apple.com/nz/app/treso/id1060408353?mt=8'>App Store</a></p>">
                         <div class="portfolio-wrapper">
                             <img src="images/treso.jpg" class="img-fluid" alt="" />
                             <div class="label">
@@ -442,7 +442,7 @@
                         </div>
                     </div>																																							
                     
-                    <div class="portfolio app" data-cat="app" data-responsive="images/Jobzminer.jpg" data-src="images/Jobzminer.jpg" data-sub-html="Android<p>https://play.google.com/store/apps/details?id=net.jobzminer.app</p>">
+                    <div class="portfolio app" data-cat="app" data-responsive="images/Jobzminer.jpg" data-src="images/Jobzminer.jpg" data-sub-html="Android<p><a class='hyper-link' target='_blank' href='https://play.google.com/store/apps/details?id=net.jobzminer.app'>Play Store</a></p>">
                         <div class="portfolio-wrapper">			
                             <img src="images/Jobzminer.jpg" class="img-fluid" alt="" />
                             <div class="label">
@@ -507,7 +507,7 @@
                         </div>
                     </div>							 -->
 
-                    <div class="portfolio web" data-cat="web" data-responsive="images/2.jpg" data-src="images/2.jpg" data-sub-html="<a>https://www.jfitzpatrickfootwear.com/</a>">
+                    <div class="portfolio web" data-cat="web" data-responsive="images/2.jpg" data-src="images/2.jpg" data-sub-html="<a class='hyper-link' target='_blank' href='https://www.jfitzpatrickfootwear.com/'>Visit Site</a>">
                         <div class="portfolio-wrapper">						
                             <img src="images/2.jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
@@ -533,7 +533,7 @@
                         </div>
                     </div>				 -->
                     
-                    <div class="portfolio web" data-cat="web" data-responsive="images/3.jpg" data-src="images/3.jpg" data-sub-html="<a>https://sophieandtrey.com/</a>">
+                    <div class="portfolio web" data-cat="web" data-responsive="images/3.jpg" data-src="images/3.jpg" data-sub-html="<a class='hyper-link' target='_blank' href='https://sophieandtrey.com/'>Visit Site</a>">
                         <div class="portfolio-wrapper">						
                             <img src="images/3.jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
@@ -572,7 +572,7 @@
                         </div>
                     </div>			 -->
                     
-                    <div class="portfolio web" data-cat="web" data-responsive="images/4.jpg" data-src="images/4.jpg" data-sub-html="<a>https://www.pnclogos.com/</a>">
+                    <div class="portfolio web" data-cat="web" data-responsive="images/4.jpg" data-src="images/4.jpg" data-sub-html="<a class='hyper-link' target='_blank' href='https://www.pnclogos.com/'>Visit Site</a>">
                         <div class="portfolio-wrapper">						
                             <img src="images/4.jpg" class="img-fluid logo-img" alt="" />
                             <div class="label">
